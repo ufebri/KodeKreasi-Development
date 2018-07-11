@@ -20,4 +20,4 @@ Ada klien anda ingin dibuatkan aplikasi sederhana tentang pendataan data pendudu
 - Boleh diskusi tentang REFERENSI penggunaan API dan sebagainya.
 - Waktu pengerjaan sampai jam kantor pulang 17.00, selesai tidak selesai harus sudah di push.
 
-Semangat Gaes
+Semangat Gaes !
