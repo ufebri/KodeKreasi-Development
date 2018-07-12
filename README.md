@@ -6,11 +6,16 @@ Ada klien anda ingin dibuatkan aplikasi sederhana tentang pendataan data pendudu
 
 1. Menu register
 	- Nama, alamat dsb
-	- Menampilkan data kota/kabupaten dari API
+	- Menampilkan data kota/kabupaten dari API 
 	- Memilih lokasi dengan Google Maps API (Optional + Nilai Tambah)
 2. Menu Lihat Data
 	- Menampilkan data yang telah di post
 	- Dapat melakukan filter di action bar search
+
+[Attachment]
+- API
+	http://163.53.192.162/apitesandroid/public/alamat 
+	Method: GET & POST
 	
 
 [How To Work]
