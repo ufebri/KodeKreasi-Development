@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_item_nama"
+        android:textSize="18sp"
+        android:text="@string/nama"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_item_nomor"
+        android:textSize="18sp"
+        android:text="@string/nomor"
+        android:layout_below="@id/tv_item_nama"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_item_alamat"
+        android:textSize="18sp"
+        android:text="@string/alamat_saya"
+        android:layout_below="@id/tv_item_nomor"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_item_kota"
+        android:textSize="18sp"
+        android:text="Kota, Provinsi"
+        android:layout_below="@id/tv_item_alamat"/>
+
+</RelativeLayout>

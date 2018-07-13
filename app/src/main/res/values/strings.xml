@@ -4,4 +4,7 @@
     <string name="register_data">Register Data</string>
     <string name="lihat_data">Lihat Data</string>
     <string name="sistem_pendataan_penduduk">SISTEM PENDATAAN PENDUDUK</string>
+    <string name="nama">Nama</string>
+    <string name="nomor">0898298198</string>
+    <string name="alamat_saya">alamat saya</string>
 </resources>
