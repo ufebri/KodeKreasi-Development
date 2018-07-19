@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Kode Kreasi Recruitment</string>
     <string name="command">Tampilkan data yang telah di Post tadi ke disini dan dapat di cari menggunakan action bar search</string>
+    <string name="title_activity_show_data">ShowDataActivity</string>
+    <string name="check_id">Check ID</string>
+    <string name="check_nama">Check Nama</string>
+    <string name="check_alamat">Check Alamat</string>
 </resources>
