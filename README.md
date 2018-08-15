@@ -14,7 +14,7 @@ Ada klien anda ingin dibuatkan aplikasi sederhana tentang pendataan data pendudu
 
 [Attachment]
 - API
-	http://163.53.192.162/apitesandroid/public/alamat 
+	http://139.59.106.46/apitesandroid/public/alamat 
 	Method: GET & POST
 	
 
